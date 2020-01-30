@@ -1,0 +1,6 @@
+{
+  "parameters":{
+    "environment": "local",
+    "env2": "backup_env"
+  }
+}
