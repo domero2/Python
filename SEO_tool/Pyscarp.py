@@ -40,4 +40,4 @@ class Pyscarp():
                         pass
             SpliterListlink = set(Linkslist)
             SpliterListimage = set(Imglist)
-            return SpliterListlink, SpliterListimage
+            return SpliterListlink,'\n',['links'],'\n',SpliterListimage,'\n',['Images']
