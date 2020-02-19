@@ -24,7 +24,7 @@ class Pyscarp():
 
     def search_word_from_file(self,file_name, searching_word):
 
-        with open(os.path.join('/Users/amajcher/Desktop', file_name), 'r') as file:
+        with open(os.path.join('/Users/amajcher/Desktop/BS', file_name), 'r') as file:
             contents = file.read()
             search_word = searching_word
             FirstList = contents.split()
@@ -41,12 +41,3 @@ class Pyscarp():
             SpliterListlink = set(Linkslist)
             SpliterListimage = set(Imglist)
             return SpliterListlink, SpliterListimage
-
-
-
-            # print("All links contains %s" % search_word)
-            # print('\n'.join(SpliterListlink))
-            # print("All images contains %s" % search_word)
-            # print('\n'.join(SpliterListimage))
-
-# search_word_from_file('links2.txt','trener')
