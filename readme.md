@@ -13,4 +13,5 @@ IF you want to search different word from file you need to clear content from ma
 To do that, you need to click Clear Content button which is located in Footer.
 
 Preview of app
+
 <img src="https://github.com/domero2/Python/blob/master/Images/SEO_app.jpg"></img>
