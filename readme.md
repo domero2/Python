@@ -16,4 +16,4 @@ Preview of app
 
 <img src="https://github.com/domero2/Python/blob/master/Images/SEO_app.jpg"></img>
 
-<img src="https://github.com/domero2/Python/blob/master/Images/SEO_app2.jpg"></img>
+<img src="https://github.com/domero2/Python/blob/master/Images/SEO_app2.png"></img>
