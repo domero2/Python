@@ -15,3 +15,5 @@ To do that, you need to click Clear Content button which is located in Footer.
 Preview of app
 
 <img src="https://github.com/domero2/Python/blob/master/Images/SEO_app.jpg"></img>
+
+<img src="https://github.com/domero2/Python/blob/master/Images/SEO_app2.jpg"></img>
