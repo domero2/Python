@@ -12,3 +12,5 @@ Next if you want to search data from this file you need to paste word that you w
 IF you want to search different word from file you need to clear content from main label, and paset different word. 
 To do that, you need to click Clear Content button which is located in Footer.
 
+Preview of app
+<a href="https://github.com/domero2/Python/blob/master/Images/SEO_app.jpg></a>
