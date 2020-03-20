@@ -13,9 +13,12 @@ def generateFile(file_name):
                 file.write(f'''
 "table_name": "{i}"''')
 
-def ReplaceFile(file_name,write_file):
+def replaceFile(file_name,write_file):
     with open(os.path.join('/Users/amajcher/Desktop/Python/NewFiles/{}'.format(file_name)), 'r+') as file:
         contents = file.readlines()
         with open(os.path.join('/Users/amajcher/Desktop/Python/NewFiles/{}'.format(write_file)), 'w+') as file2:
             for i in contents:
                 file2.write(i.replace(':','='))
+
+generateFile('test3.txt')
+replaceFile('test3.txt','test4.txt')
