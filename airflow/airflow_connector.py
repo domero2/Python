@@ -61,4 +61,4 @@ dag = DAG('WSdag', description='Getting files from S3 and connect to SF',
 
 getAllFilesAndLastModDates()
 connectToSnowflake()
-
+#https://www.astronomer.io/docs/cli-quickstart/
