@@ -1,4 +1,14 @@
-SEO tool designed using Python and TKinter library:
+<h2>Boring work automated</h2>
+Her you could find scripts for replacaing strings:
+1. Replacing strings in list of files.
+2. Replacing strings from specyfic place
+3. Simple replace in one script
+
+
+
+
+<h2>SEO tool </h2>
+designed using Python and TKinter library:
 
 Tool is searching links on website and saving this links into the file in directory /Users/<user_name>/Desktop/BS
 When you will run the application, you need to past url in first label and then paste file name wit txt extension in right label.
