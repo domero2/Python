@@ -51,3 +51,34 @@ def iterate_through_json(keys):
     return frameData
     
 Data_iterate = iterate_through_json(KEY_COLUMN_TO_USE)
+
+readArtist = pd.read_csv(CSV_PATH) 
+artistResults = readArtist['artist']
+
+#res=pd.unique(artistResults)
+#count_specyfic = readArtist['artist'] == 'Blake, Robert'
+#result_count = count_specyfic.value_counts()
+
+#Read artist name which has index number =1035
+readArtist.loc[1035,'artist']
+
+#Read value from first row and first column    
+readArtist.iloc[0,0]
+#read valeu for each column for first row
+readArtist.iloc[0,:]
+
+#Sorted values from beginnign and from the end
+readArtist['width'].sort_values().head()
+readArtist['width'].sort_values().tail()
+
+#Modify not a nmber to number and enforce for errors for width column
+pd.to_numeric(readArtist['width'],errors='coerce')
+readArtist.loc[:,'width'] = pd.to_numeric(readArtist['width'],errors='coerce')
+
+#Modify not a nmber to number and enforce for errors for height column
+pd.to_numeric(readArtist['height'],errors='coerce')
+readArtist.loc[:,'height'] = pd.to_numeric(readArtist['height'],errors='coerce')
+
+#Multiply height and width
+readArtist['width'] * readArtist['height']
+readArtist['units'].value_counts()
