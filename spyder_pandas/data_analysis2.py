@@ -126,3 +126,27 @@ plotingObject = pd.read_csv(CSV_PATH, index_col='id')
 #Count each year occurance in acquisitionYear column
 acquisition_Year = plotingObject.groupby('acquisitionYear').size()
 acquisition_Year.plot()
+
+title_css = {'family': 'source sans pro',
+             'color': 'darkblue',
+             'size': '23'}
+dimensionx_css = {'family': 'source sans pro',
+             'color': 'darkgreen',
+             'size': '19'}
+dimensiony_css = {'family': 'source sans pro',
+             'color': 'darkorange',
+             'size': '19'}
+
+rcParams.update({'figure.autolayout' : True, 'axes.titlepad' :20})
+
+fig = pyplot.figure()
+subplot = fig.add_subplot(1,1,1)
+# rotate x values 45 degree
+acquisition_Year.plot(ax=subplot, rot =45, logy=True, grid=True)
+subplot.set_xlabel('Acq year', fontdict=dimensionx_css)
+subplot.set_ylabel('Artworks acquired', fontdict = dimensiony_css, labelpad =10)
+subplot.locator_params(nbins=35, axis='x')
+subplot.set_title("Artwork year and acquisition", fontdict = title_css)
+
+fig.show()
+fig.savefig('final.png')
