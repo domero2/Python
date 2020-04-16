@@ -55,9 +55,9 @@ Data_iterate = iterate_through_json(KEY_COLUMN_TO_USE)
 readArtist = pd.read_csv(CSV_PATH) 
 artistResults = readArtist['artist']
 
-#res=pd.unique(artistResults)
-#count_specyfic = readArtist['artist'] == 'Blake, Robert'
-#result_count = count_specyfic.value_counts()
+res=pd.unique(artistResults)
+count_specyfic = readArtist['artist'] == 'Blake, Robert'
+result_count = count_specyfic.value_counts()
 
 #Read artist name which has index number =1035
 readArtist.loc[1035,'artist']
@@ -82,3 +82,47 @@ readArtist.loc[:,'height'] = pd.to_numeric(readArtist['height'],errors='coerce')
 #Multiply height and width
 readArtist['width'] * readArtist['height']
 readArtist['units'].value_counts()
+
+##################################GROUPING
+#Gropuing part of pandas
+smallDataSet = readArtist.iloc[0:1234, :].copy()
+groupedSet = smallDataSet.groupby('artist')
+
+
+for name_df,group_df in groupedSet:
+    min_year = group_df['acquisitionYear'].min()
+    print("{}: {}".format(name_df,min_year))
+    
+def fill_empty_values(series):
+    value_counted = series.value_counts()
+    if value_counted.empty:
+        return series
+    most_frequent = value_counted.index[0]
+    final_set = series.fillna(most_frequent)
+    return final_set
+    
+def transform_data(source_df):
+    newOneDataFrame =[]
+    for name_tf, group_df in source_df.groupby('artist'):
+        filled_df = group_df.copy()
+        filled_df.loc[:,'medium'] = fill_empty_values(group_df['medium'])
+        newOneDataFrame.append(filled_df)
+    finallDataFrame = pd.concat(newOneDataFrame)
+    return finallDataFrame
+        
+
+dataFrameFilled = transform_data(smallDataSet)
+
+#made same using build in function
+buildInFunc = smallDataSet.groupby('artist')['medium']
+smallDataSet.loc[:, 'medium'] = buildInFunc.transform(fill_empty_values)
+
+readArtist.groupby('artist')
+groupedSet.min()
+
+######################PLOTING
+
+plotingObject = pd.read_csv(CSV_PATH, index_col='id')
+#Count each year occurance in acquisitionYear column
+acquisition_Year = plotingObject.groupby('acquisitionYear').size()
+acquisition_Year.plot()
