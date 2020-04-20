@@ -1,5 +1,5 @@
 from os import path
-from queries import *
+#from queries import *
 import sqlite3
 from sqlite3 import Error
 
@@ -31,7 +31,7 @@ def select_all_tasks(conn, query):
 
 
 def main():
-    database = r"/Users/amajcher/Library/DBeaverData/workspace6/.metadata/sample-database-sqlite-1/Chinook.db"
+    database = r"/Users/albi/Library/DBeaverData/workspace6/.metadata/sample-database-sqlite-1/Chinook.db"
 
     conn = create_connection(database)
     cur = conn.cursor()
@@ -39,9 +39,14 @@ def main():
 
     with create_connection(database) as ConnectionSL:
         con2 = ConnectionSL.cursor()
+        res = con2.execute('select FirstName from Customer')
 
-        query = SqlLiteQuery().from_file(RELATIVE_PATH)
-        ress = con2.execute(query)
-        for res in ress: print(res)
+        for i in res:
+            print(i)
+        #query = SqlLiteQuery().from_file(RELATIVE_PATH)
+        #ress = con2.execute(query)
+        #for res in ress: print(res)
     ConnectionSL.commit()
     ConnectionSL.close()
+if __name__ == '__main__':
+    main()
