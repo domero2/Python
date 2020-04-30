@@ -1,0 +1,974 @@
+,year,tmID,name
+727,1980,BOS,Boston Bruins
+728,1980,BUF,Buffalo Sabres
+729,1980,CAL,Calgary Flames
+730,1980,CHI,Chicago Black Hawks
+731,1980,COR,Colorado Rockies
+732,1980,DET,Detroit Red Wings
+733,1980,EDM,Edmonton Oilers
+734,1980,HAR,Hartford Whalers
+735,1980,LAK,Los Angeles Kings
+736,1980,MNS,Minnesota North Stars
+737,1980,MTL,Montreal Canadiens
+738,1980,NYI,New York Islanders
+739,1980,NYR,New York Rangers
+740,1980,PHI,Philadelphia Flyers
+741,1980,PIT,Pittsburgh Penguins
+742,1980,QUE,Quebec Nordiques
+743,1980,STL,St. Louis Blues
+744,1980,TOR,Toronto Maple Leafs
+745,1980,VAN,Vancouver Canucks
+746,1980,WAS,Washington Capitals
+747,1980,WIN,Winnipeg Jets
+748,1981,BOS,Boston Bruins
+749,1981,BUF,Buffalo Sabres
+750,1981,CAL,Calgary Flames
+751,1981,CHI,Chicago Black Hawks
+752,1981,COR,Colorado Rockies
+753,1981,DET,Detroit Red Wings
+754,1981,EDM,Edmonton Oilers
+755,1981,HAR,Hartford Whalers
+756,1981,LAK,Los Angeles Kings
+757,1981,MNS,Minnesota North Stars
+758,1981,MTL,Montreal Canadiens
+759,1981,NYI,New York Islanders
+760,1981,NYR,New York Rangers
+761,1981,PHI,Philadelphia Flyers
+762,1981,PIT,Pittsburgh Penguins
+763,1981,QUE,Quebec Nordiques
+764,1981,STL,St. Louis Blues
+765,1981,TOR,Toronto Maple Leafs
+766,1981,VAN,Vancouver Canucks
+767,1981,WAS,Washington Capitals
+768,1981,WIN,Winnipeg Jets
+769,1982,BOS,Boston Bruins
+770,1982,BUF,Buffalo Sabres
+771,1982,CAL,Calgary Flames
+772,1982,CHI,Chicago Black Hawks
+773,1982,DET,Detroit Red Wings
+774,1982,EDM,Edmonton Oilers
+775,1982,HAR,Hartford Whalers
+776,1982,LAK,Los Angeles Kings
+777,1982,MNS,Minnesota North Stars
+778,1982,MTL,Montreal Canadiens
+779,1982,NJD,New Jersey Devils
+780,1982,NYI,New York Islanders
+781,1982,NYR,New York Rangers
+782,1982,PHI,Philadelphia Flyers
+783,1982,PIT,Pittsburgh Penguins
+784,1982,QUE,Quebec Nordiques
+785,1982,STL,St. Louis Blues
+786,1982,TOR,Toronto Maple Leafs
+787,1982,VAN,Vancouver Canucks
+788,1982,WAS,Washington Capitals
+789,1982,WIN,Winnipeg Jets
+790,1983,BOS,Boston Bruins
+791,1983,BUF,Buffalo Sabres
+792,1983,CAL,Calgary Flames
+793,1983,CHI,Chicago Black Hawks
+794,1983,DET,Detroit Red Wings
+795,1983,EDM,Edmonton Oilers
+796,1983,HAR,Hartford Whalers
+797,1983,LAK,Los Angeles Kings
+798,1983,MNS,Minnesota North Stars
+799,1983,MTL,Montreal Canadiens
+800,1983,NJD,New Jersey Devils
+801,1983,NYI,New York Islanders
+802,1983,NYR,New York Rangers
+803,1983,PHI,Philadelphia Flyers
+804,1983,PIT,Pittsburgh Penguins
+805,1983,QUE,Quebec Nordiques
+806,1983,STL,St. Louis Blues
+807,1983,TOR,Toronto Maple Leafs
+808,1983,VAN,Vancouver Canucks
+809,1983,WAS,Washington Capitals
+810,1983,WIN,Winnipeg Jets
+811,1984,BOS,Boston Bruins
+812,1984,BUF,Buffalo Sabres
+813,1984,CAL,Calgary Flames
+814,1984,CHI,Chicago Black Hawks
+815,1984,DET,Detroit Red Wings
+816,1984,EDM,Edmonton Oilers
+817,1984,HAR,Hartford Whalers
+818,1984,LAK,Los Angeles Kings
+819,1984,MNS,Minnesota North Stars
+820,1984,MTL,Montreal Canadiens
+821,1984,NJD,New Jersey Devils
+822,1984,NYI,New York Islanders
+823,1984,NYR,New York Rangers
+824,1984,PHI,Philadelphia Flyers
+825,1984,PIT,Pittsburgh Penguins
+826,1984,QUE,Quebec Nordiques
+827,1984,STL,St. Louis Blues
+828,1984,TOR,Toronto Maple Leafs
+829,1984,VAN,Vancouver Canucks
+830,1984,WAS,Washington Capitals
+831,1984,WIN,Winnipeg Jets
+832,1985,BOS,Boston Bruins
+833,1985,BUF,Buffalo Sabres
+834,1985,CAL,Calgary Flames
+835,1985,CHI,Chicago Black Hawks
+836,1985,DET,Detroit Red Wings
+837,1985,EDM,Edmonton Oilers
+838,1985,HAR,Hartford Whalers
+839,1985,LAK,Los Angeles Kings
+840,1985,MNS,Minnesota North Stars
+841,1985,MTL,Montreal Canadiens
+842,1985,NJD,New Jersey Devils
+843,1985,NYI,New York Islanders
+844,1985,NYR,New York Rangers
+845,1985,PHI,Philadelphia Flyers
+846,1985,PIT,Pittsburgh Penguins
+847,1985,QUE,Quebec Nordiques
+848,1985,STL,St. Louis Blues
+849,1985,TOR,Toronto Maple Leafs
+850,1985,VAN,Vancouver Canucks
+851,1985,WAS,Washington Capitals
+852,1985,WIN,Winnipeg Jets
+853,1986,BOS,Boston Bruins
+854,1986,BUF,Buffalo Sabres
+855,1986,CAL,Calgary Flames
+856,1986,CHI,Chicago Blackhawks
+857,1986,DET,Detroit Red Wings
+858,1986,EDM,Edmonton Oilers
+859,1986,HAR,Hartford Whalers
+860,1986,LAK,Los Angeles Kings
+861,1986,MNS,Minnesota North Stars
+862,1986,MTL,Montreal Canadiens
+863,1986,NJD,New Jersey Devils
+864,1986,NYI,New York Islanders
+865,1986,NYR,New York Rangers
+866,1986,PHI,Philadelphia Flyers
+867,1986,PIT,Pittsburgh Penguins
+868,1986,QUE,Quebec Nordiques
+869,1986,STL,St. Louis Blues
+870,1986,TOR,Toronto Maple Leafs
+871,1986,VAN,Vancouver Canucks
+872,1986,WAS,Washington Capitals
+873,1986,WIN,Winnipeg Jets
+874,1987,BOS,Boston Bruins
+875,1987,BUF,Buffalo Sabres
+876,1987,CAL,Calgary Flames
+877,1987,CHI,Chicago Blackhawks
+878,1987,DET,Detroit Red Wings
+879,1987,EDM,Edmonton Oilers
+880,1987,HAR,Hartford Whalers
+881,1987,LAK,Los Angeles Kings
+882,1987,MNS,Minnesota North Stars
+883,1987,MTL,Montreal Canadiens
+884,1987,NJD,New Jersey Devils
+885,1987,NYI,New York Islanders
+886,1987,NYR,New York Rangers
+887,1987,PHI,Philadelphia Flyers
+888,1987,PIT,Pittsburgh Penguins
+889,1987,QUE,Quebec Nordiques
+890,1987,STL,St. Louis Blues
+891,1987,TOR,Toronto Maple Leafs
+892,1987,VAN,Vancouver Canucks
+893,1987,WAS,Washington Capitals
+894,1987,WIN,Winnipeg Jets
+895,1988,BOS,Boston Bruins
+896,1988,BUF,Buffalo Sabres
+897,1988,CAL,Calgary Flames
+898,1988,CHI,Chicago Blackhawks
+899,1988,DET,Detroit Red Wings
+900,1988,EDM,Edmonton Oilers
+901,1988,HAR,Hartford Whalers
+902,1988,LAK,Los Angeles Kings
+903,1988,MNS,Minnesota North Stars
+904,1988,MTL,Montreal Canadiens
+905,1988,NJD,New Jersey Devils
+906,1988,NYI,New York Islanders
+907,1988,NYR,New York Rangers
+908,1988,PHI,Philadelphia Flyers
+909,1988,PIT,Pittsburgh Penguins
+910,1988,QUE,Quebec Nordiques
+911,1988,STL,St. Louis Blues
+912,1988,TOR,Toronto Maple Leafs
+913,1988,VAN,Vancouver Canucks
+914,1988,WAS,Washington Capitals
+915,1988,WIN,Winnipeg Jets
+916,1989,BOS,Boston Bruins
+917,1989,BUF,Buffalo Sabres
+918,1989,CAL,Calgary Flames
+919,1989,CHI,Chicago Blackhawks
+920,1989,DET,Detroit Red Wings
+921,1989,EDM,Edmonton Oilers
+922,1989,HAR,Hartford Whalers
+923,1989,LAK,Los Angeles Kings
+924,1989,MNS,Minnesota North Stars
+925,1989,MTL,Montreal Canadiens
+926,1989,NJD,New Jersey Devils
+927,1989,NYI,New York Islanders
+928,1989,NYR,New York Rangers
+929,1989,PHI,Philadelphia Flyers
+930,1989,PIT,Pittsburgh Penguins
+931,1989,QUE,Quebec Nordiques
+932,1989,STL,St. Louis Blues
+933,1989,TOR,Toronto Maple Leafs
+934,1989,VAN,Vancouver Canucks
+935,1989,WAS,Washington Capitals
+936,1989,WIN,Winnipeg Jets
+937,1990,BOS,Boston Bruins
+938,1990,BUF,Buffalo Sabres
+939,1990,CAL,Calgary Flames
+940,1990,CHI,Chicago Blackhawks
+941,1990,DET,Detroit Red Wings
+942,1990,EDM,Edmonton Oilers
+943,1990,HAR,Hartford Whalers
+944,1990,LAK,Los Angeles Kings
+945,1990,MNS,Minnesota North Stars
+946,1990,MTL,Montreal Canadiens
+947,1990,NJD,New Jersey Devils
+948,1990,NYI,New York Islanders
+949,1990,NYR,New York Rangers
+950,1990,PHI,Philadelphia Flyers
+951,1990,PIT,Pittsburgh Penguins
+952,1990,QUE,Quebec Nordiques
+953,1990,STL,St. Louis Blues
+954,1990,TOR,Toronto Maple Leafs
+955,1990,VAN,Vancouver Canucks
+956,1990,WAS,Washington Capitals
+957,1990,WIN,Winnipeg Jets
+958,1991,BOS,Boston Bruins
+959,1991,BUF,Buffalo Sabres
+960,1991,CAL,Calgary Flames
+961,1991,CHI,Chicago Blackhawks
+962,1991,DET,Detroit Red Wings
+963,1991,EDM,Edmonton Oilers
+964,1991,HAR,Hartford Whalers
+965,1991,LAK,Los Angeles Kings
+966,1991,MNS,Minnesota North Stars
+967,1991,MTL,Montreal Canadiens
+968,1991,NJD,New Jersey Devils
+969,1991,NYI,New York Islanders
+970,1991,NYR,New York Rangers
+971,1991,PHI,Philadelphia Flyers
+972,1991,PIT,Pittsburgh Penguins
+973,1991,QUE,Quebec Nordiques
+974,1991,SJS,San Jose Sharks
+975,1991,STL,St. Louis Blues
+976,1991,TOR,Toronto Maple Leafs
+977,1991,VAN,Vancouver Canucks
+978,1991,WAS,Washington Capitals
+979,1991,WIN,Winnipeg Jets
+980,1992,BOS,Boston Bruins
+981,1992,BUF,Buffalo Sabres
+982,1992,CAL,Calgary Flames
+983,1992,CHI,Chicago Blackhawks
+984,1992,DET,Detroit Red Wings
+985,1992,EDM,Edmonton Oilers
+986,1992,HAR,Hartford Whalers
+987,1992,LAK,Los Angeles Kings
+988,1992,MNS,Minnesota North Stars
+989,1992,MTL,Montreal Canadiens
+990,1992,NJD,New Jersey Devils
+991,1992,NYI,New York Islanders
+992,1992,NYR,New York Rangers
+993,1992,OTT,Ottawa Senators
+994,1992,PHI,Philadelphia Flyers
+995,1992,PIT,Pittsburgh Penguins
+996,1992,QUE,Quebec Nordiques
+997,1992,SJS,San Jose Sharks
+998,1992,STL,St. Louis Blues
+999,1992,TBL,Tampa Bay Lightning
+1000,1992,TOR,Toronto Maple Leafs
+1001,1992,VAN,Vancouver Canucks
+1002,1992,WAS,Washington Capitals
+1003,1992,WIN,Winnipeg Jets
+1004,1993,ANA,Mighty Ducks of Anaheim
+1005,1993,BOS,Boston Bruins
+1006,1993,BUF,Buffalo Sabres
+1007,1993,CAL,Calgary Flames
+1008,1993,CHI,Chicago Blackhawks
+1009,1993,DAL,Dallas Stars
+1010,1993,DET,Detroit Red Wings
+1011,1993,EDM,Edmonton Oilers
+1012,1993,FLO,Florida Panthers
+1013,1993,HAR,Hartford Whalers
+1014,1993,LAK,Los Angeles Kings
+1015,1993,MTL,Montreal Canadiens
+1016,1993,NJD,New Jersey Devils
+1017,1993,NYI,New York Islanders
+1018,1993,NYR,New York Rangers
+1019,1993,OTT,Ottawa Senators
+1020,1993,PHI,Philadelphia Flyers
+1021,1993,PIT,Pittsburgh Penguins
+1022,1993,QUE,Quebec Nordiques
+1023,1993,SJS,San Jose Sharks
+1024,1993,STL,St. Louis Blues
+1025,1993,TBL,Tampa Bay Lightning
+1026,1993,TOR,Toronto Maple Leafs
+1027,1993,VAN,Vancouver Canucks
+1028,1993,WAS,Washington Capitals
+1029,1993,WIN,Winnipeg Jets
+1030,1994,ANA,Mighty Ducks of Anaheim
+1031,1994,BOS,Boston Bruins
+1032,1994,BUF,Buffalo Sabres
+1033,1994,CAL,Calgary Flames
+1034,1994,CHI,Chicago Blackhawks
+1035,1994,DAL,Dallas Stars
+1036,1994,DET,Detroit Red Wings
+1037,1994,EDM,Edmonton Oilers
+1038,1994,FLO,Florida Panthers
+1039,1994,HAR,Hartford Whalers
+1040,1994,LAK,Los Angeles Kings
+1041,1994,MTL,Montreal Canadiens
+1042,1994,NJD,New Jersey Devils
+1043,1994,NYI,New York Islanders
+1044,1994,NYR,New York Rangers
+1045,1994,OTT,Ottawa Senators
+1046,1994,PHI,Philadelphia Flyers
+1047,1994,PIT,Pittsburgh Penguins
+1048,1994,QUE,Quebec Nordiques
+1049,1994,SJS,San Jose Sharks
+1050,1994,STL,St. Louis Blues
+1051,1994,TBL,Tampa Bay Lightning
+1052,1994,TOR,Toronto Maple Leafs
+1053,1994,VAN,Vancouver Canucks
+1054,1994,WAS,Washington Capitals
+1055,1994,WIN,Winnipeg Jets
+1056,1995,ANA,Mighty Ducks of Anaheim
+1057,1995,BOS,Boston Bruins
+1058,1995,BUF,Buffalo Sabres
+1059,1995,CAL,Calgary Flames
+1060,1995,CHI,Chicago Blackhawks
+1061,1995,COL,Colorado Avalanche
+1062,1995,DAL,Dallas Stars
+1063,1995,DET,Detroit Red Wings
+1064,1995,EDM,Edmonton Oilers
+1065,1995,FLO,Florida Panthers
+1066,1995,HAR,Hartford Whalers
+1067,1995,LAK,Los Angeles Kings
+1068,1995,MTL,Montreal Canadiens
+1069,1995,NJD,New Jersey Devils
+1070,1995,NYI,New York Islanders
+1071,1995,NYR,New York Rangers
+1072,1995,OTT,Ottawa Senators
+1073,1995,PHI,Philadelphia Flyers
+1074,1995,PIT,Pittsburgh Penguins
+1075,1995,SJS,San Jose Sharks
+1076,1995,STL,St. Louis Blues
+1077,1995,TBL,Tampa Bay Lightning
+1078,1995,TOR,Toronto Maple Leafs
+1079,1995,VAN,Vancouver Canucks
+1080,1995,WAS,Washington Capitals
+1081,1995,WIN,Winnipeg Jets
+1082,1996,ANA,Mighty Ducks of Anaheim
+1083,1996,BOS,Boston Bruins
+1084,1996,BUF,Buffalo Sabres
+1085,1996,CAL,Calgary Flames
+1086,1996,CHI,Chicago Blackhawks
+1087,1996,COL,Colorado Avalanche
+1088,1996,DAL,Dallas Stars
+1089,1996,DET,Detroit Red Wings
+1090,1996,EDM,Edmonton Oilers
+1091,1996,FLO,Florida Panthers
+1092,1996,HAR,Hartford Whalers
+1093,1996,LAK,Los Angeles Kings
+1094,1996,MTL,Montreal Canadiens
+1095,1996,NJD,New Jersey Devils
+1096,1996,NYI,New York Islanders
+1097,1996,NYR,New York Rangers
+1098,1996,OTT,Ottawa Senators
+1099,1996,PHI,Philadelphia Flyers
+1100,1996,PHO,Phoenix Coyotes
+1101,1996,PIT,Pittsburgh Penguins
+1102,1996,SJS,San Jose Sharks
+1103,1996,STL,St. Louis Blues
+1104,1996,TBL,Tampa Bay Lightning
+1105,1996,TOR,Toronto Maple Leafs
+1106,1996,VAN,Vancouver Canucks
+1107,1996,WAS,Washington Capitals
+1108,1997,ANA,Mighty Ducks of Anaheim
+1109,1997,BOS,Boston Bruins
+1110,1997,BUF,Buffalo Sabres
+1111,1997,CAL,Calgary Flames
+1112,1997,CAR,Carolina Hurricanes
+1113,1997,CHI,Chicago Blackhawks
+1114,1997,COL,Colorado Avalanche
+1115,1997,DAL,Dallas Stars
+1116,1997,DET,Detroit Red Wings
+1117,1997,EDM,Edmonton Oilers
+1118,1997,FLO,Florida Panthers
+1119,1997,LAK,Los Angeles Kings
+1120,1997,MTL,Montreal Canadiens
+1121,1997,NJD,New Jersey Devils
+1122,1997,NYI,New York Islanders
+1123,1997,NYR,New York Rangers
+1124,1997,OTT,Ottawa Senators
+1125,1997,PHI,Philadelphia Flyers
+1126,1997,PHO,Phoenix Coyotes
+1127,1997,PIT,Pittsburgh Penguins
+1128,1997,SJS,San Jose Sharks
+1129,1997,STL,St. Louis Blues
+1130,1997,TBL,Tampa Bay Lightning
+1131,1997,TOR,Toronto Maple Leafs
+1132,1997,VAN,Vancouver Canucks
+1133,1997,WAS,Washington Capitals
+1134,1998,ANA,Mighty Ducks of Anaheim
+1135,1998,BOS,Boston Bruins
+1136,1998,BUF,Buffalo Sabres
+1137,1998,CAL,Calgary Flames
+1138,1998,CAR,Carolina Hurricanes
+1139,1998,CHI,Chicago Blackhawks
+1140,1998,COL,Colorado Avalanche
+1141,1998,DAL,Dallas Stars
+1142,1998,DET,Detroit Red Wings
+1143,1998,EDM,Edmonton Oilers
+1144,1998,FLO,Florida Panthers
+1145,1998,LAK,Los Angeles Kings
+1146,1998,MTL,Montreal Canadiens
+1147,1998,NAS,Nashville Predators
+1148,1998,NJD,New Jersey Devils
+1149,1998,NYI,New York Islanders
+1150,1998,NYR,New York Rangers
+1151,1998,OTT,Ottawa Senators
+1152,1998,PHI,Philadelphia Flyers
+1153,1998,PHO,Phoenix Coyotes
+1154,1998,PIT,Pittsburgh Penguins
+1155,1998,SJS,San Jose Sharks
+1156,1998,STL,St. Louis Blues
+1157,1998,TBL,Tampa Bay Lightning
+1158,1998,TOR,Toronto Maple Leafs
+1159,1998,VAN,Vancouver Canucks
+1160,1998,WAS,Washington Capitals
+1161,1999,ANA,Mighty Ducks of Anaheim
+1162,1999,ATL,Atlanta Thrashers
+1163,1999,BOS,Boston Bruins
+1164,1999,BUF,Buffalo Sabres
+1165,1999,CAL,Calgary Flames
+1166,1999,CAR,Carolina Hurricanes
+1167,1999,CHI,Chicago Blackhawks
+1168,1999,COL,Colorado Avalanche
+1169,1999,DAL,Dallas Stars
+1170,1999,DET,Detroit Red Wings
+1171,1999,EDM,Edmonton Oilers
+1172,1999,FLO,Florida Panthers
+1173,1999,LAK,Los Angeles Kings
+1174,1999,MTL,Montreal Canadiens
+1175,1999,NAS,Nashville Predators
+1176,1999,NJD,New Jersey Devils
+1177,1999,NYI,New York Islanders
+1178,1999,NYR,New York Rangers
+1179,1999,OTT,Ottawa Senators
+1180,1999,PHI,Philadelphia Flyers
+1181,1999,PHO,Phoenix Coyotes
+1182,1999,PIT,Pittsburgh Penguins
+1183,1999,SJS,San Jose Sharks
+1184,1999,STL,St. Louis Blues
+1185,1999,TBL,Tampa Bay Lightning
+1186,1999,TOR,Toronto Maple Leafs
+1187,1999,VAN,Vancouver Canucks
+1188,1999,WAS,Washington Capitals
+1189,2000,ANA,Mighty Ducks of Anaheim
+1190,2000,ATL,Atlanta Thrashers
+1191,2000,BOS,Boston Bruins
+1192,2000,BUF,Buffalo Sabres
+1193,2000,CAL,Calgary Flames
+1194,2000,CAR,Carolina Hurricanes
+1195,2000,CBS,Columbus Blue Jackets
+1196,2000,CHI,Chicago Blackhawks
+1197,2000,COL,Colorado Avalanche
+1198,2000,DAL,Dallas Stars
+1199,2000,DET,Detroit Red Wings
+1200,2000,EDM,Edmonton Oilers
+1201,2000,FLO,Florida Panthers
+1202,2000,LAK,Los Angeles Kings
+1203,2000,MIN,Minnesota Wild
+1204,2000,MTL,Montreal Canadiens
+1205,2000,NAS,Nashville Predators
+1206,2000,NJD,New Jersey Devils
+1207,2000,NYI,New York Islanders
+1208,2000,NYR,New York Rangers
+1209,2000,OTT,Ottawa Senators
+1210,2000,PHI,Philadelphia Flyers
+1211,2000,PHO,Phoenix Coyotes
+1212,2000,PIT,Pittsburgh Penguins
+1213,2000,SJS,San Jose Sharks
+1214,2000,STL,St. Louis Blues
+1215,2000,TBL,Tampa Bay Lightning
+1216,2000,TOR,Toronto Maple Leafs
+1217,2000,VAN,Vancouver Canucks
+1218,2000,WAS,Washington Capitals
+1219,2001,ANA,Mighty Ducks of Anaheim
+1220,2001,ATL,Atlanta Thrashers
+1221,2001,BOS,Boston Bruins
+1222,2001,BUF,Buffalo Sabres
+1223,2001,CAL,Calgary Flames
+1224,2001,CAR,Carolina Hurricanes
+1225,2001,CBS,Columbus Blue Jackets
+1226,2001,CHI,Chicago Blackhawks
+1227,2001,COL,Colorado Avalanche
+1228,2001,DAL,Dallas Stars
+1229,2001,DET,Detroit Red Wings
+1230,2001,EDM,Edmonton Oilers
+1231,2001,FLO,Florida Panthers
+1232,2001,LAK,Los Angeles Kings
+1233,2001,MIN,Minnesota Wild
+1234,2001,MTL,Montreal Canadiens
+1235,2001,NAS,Nashville Predators
+1236,2001,NJD,New Jersey Devils
+1237,2001,NYI,New York Islanders
+1238,2001,NYR,New York Rangers
+1239,2001,OTT,Ottawa Senators
+1240,2001,PHI,Philadelphia Flyers
+1241,2001,PHO,Phoenix Coyotes
+1242,2001,PIT,Pittsburgh Penguins
+1243,2001,SJS,San Jose Sharks
+1244,2001,STL,St. Louis Blues
+1245,2001,TBL,Tampa Bay Lightning
+1246,2001,TOR,Toronto Maple Leafs
+1247,2001,VAN,Vancouver Canucks
+1248,2001,WAS,Washington Capitals
+1249,2002,ANA,Mighty Ducks of Anaheim
+1250,2002,ATL,Atlanta Thrashers
+1251,2002,BOS,Boston Bruins
+1252,2002,BUF,Buffalo Sabres
+1253,2002,CAL,Calgary Flames
+1254,2002,CAR,Carolina Hurricanes
+1255,2002,CBS,Columbus Blue Jackets
+1256,2002,CHI,Chicago Blackhawks
+1257,2002,COL,Colorado Avalanche
+1258,2002,DAL,Dallas Stars
+1259,2002,DET,Detroit Red Wings
+1260,2002,EDM,Edmonton Oilers
+1261,2002,FLO,Florida Panthers
+1262,2002,LAK,Los Angeles Kings
+1263,2002,MIN,Minnesota Wild
+1264,2002,MTL,Montreal Canadiens
+1265,2002,NAS,Nashville Predators
+1266,2002,NJD,New Jersey Devils
+1267,2002,NYI,New York Islanders
+1268,2002,NYR,New York Rangers
+1269,2002,OTT,Ottawa Senators
+1270,2002,PHI,Philadelphia Flyers
+1271,2002,PHO,Phoenix Coyotes
+1272,2002,PIT,Pittsburgh Penguins
+1273,2002,SJS,San Jose Sharks
+1274,2002,STL,St. Louis Blues
+1275,2002,TBL,Tampa Bay Lightning
+1276,2002,TOR,Toronto Maple Leafs
+1277,2002,VAN,Vancouver Canucks
+1278,2002,WAS,Washington Capitals
+1279,2003,ANA,Mighty Ducks of Anaheim
+1280,2003,ATL,Atlanta Thrashers
+1281,2003,BOS,Boston Bruins
+1282,2003,BUF,Buffalo Sabres
+1283,2003,CAL,Calgary Flames
+1284,2003,CAR,Carolina Hurricanes
+1285,2003,CBS,Columbus Blue Jackets
+1286,2003,CHI,Chicago Blackhawks
+1287,2003,COL,Colorado Avalanche
+1288,2003,DAL,Dallas Stars
+1289,2003,DET,Detroit Red Wings
+1290,2003,EDM,Edmonton Oilers
+1291,2003,FLO,Florida Panthers
+1292,2003,LAK,Los Angeles Kings
+1293,2003,MIN,Minnesota Wild
+1294,2003,MTL,Montreal Canadiens
+1295,2003,NAS,Nashville Predators
+1296,2003,NJD,New Jersey Devils
+1297,2003,NYI,New York Islanders
+1298,2003,NYR,New York Rangers
+1299,2003,OTT,Ottawa Senators
+1300,2003,PHI,Philadelphia Flyers
+1301,2003,PHO,Phoenix Coyotes
+1302,2003,PIT,Pittsburgh Penguins
+1303,2003,SJS,San Jose Sharks
+1304,2003,STL,St. Louis Blues
+1305,2003,TBL,Tampa Bay Lightning
+1306,2003,TOR,Toronto Maple Leafs
+1307,2003,VAN,Vancouver Canucks
+1308,2003,WAS,Washington Capitals
+1309,2005,ANA,Mighty Ducks of Anaheim
+1310,2005,ATL,Atlanta Thrashers
+1311,2005,BOS,Boston Bruins
+1312,2005,BUF,Buffalo Sabres
+1313,2005,CAL,Calgary Flames
+1314,2005,CAR,Carolina Hurricanes
+1315,2005,CBS,Columbus Blue Jackets
+1316,2005,CHI,Chicago Blackhawks
+1317,2005,COL,Colorado Avalanche
+1318,2005,DAL,Dallas Stars
+1319,2005,DET,Detroit Red Wings
+1320,2005,EDM,Edmonton Oilers
+1321,2005,FLO,Florida Panthers
+1322,2005,LAK,Los Angeles Kings
+1323,2005,MIN,Minnesota Wild
+1324,2005,MTL,Montreal Canadiens
+1325,2005,NAS,Nashville Predators
+1326,2005,NJD,New Jersey Devils
+1327,2005,NYI,New York Islanders
+1328,2005,NYR,New York Rangers
+1329,2005,OTT,Ottawa Senators
+1330,2005,PHI,Philadelphia Flyers
+1331,2005,PHO,Phoenix Coyotes
+1332,2005,PIT,Pittsburgh Penguins
+1333,2005,SJS,San Jose Sharks
+1334,2005,STL,St. Louis Blues
+1335,2005,TBL,Tampa Bay Lightning
+1336,2005,TOR,Toronto Maple Leafs
+1337,2005,VAN,Vancouver Canucks
+1338,2005,WAS,Washington Capitals
+1339,2006,AND,Anaheim Ducks
+1340,2006,ATL,Atlanta Thrashers
+1341,2006,BOS,Boston Bruins
+1342,2006,BUF,Buffalo Sabres
+1343,2006,CAL,Calgary Flames
+1344,2006,CAR,Carolina Hurricanes
+1345,2006,CBS,Columbus Blue Jackets
+1346,2006,CHI,Chicago Blackhawks
+1347,2006,COL,Colorado Avalanche
+1348,2006,DAL,Dallas Stars
+1349,2006,DET,Detroit Red Wings
+1350,2006,EDM,Edmonton Oilers
+1351,2006,FLO,Florida Panthers
+1352,2006,LAK,Los Angeles Kings
+1353,2006,MIN,Minnesota Wild
+1354,2006,MTL,Montreal Canadiens
+1355,2006,NAS,Nashville Predators
+1356,2006,NJD,New Jersey Devils
+1357,2006,NYI,New York Islanders
+1358,2006,NYR,New York Rangers
+1359,2006,OTT,Ottawa Senators
+1360,2006,PHI,Philadelphia Flyers
+1361,2006,PHO,Phoenix Coyotes
+1362,2006,PIT,Pittsburgh Penguins
+1363,2006,SJS,San Jose Sharks
+1364,2006,STL,St. Louis Blues
+1365,2006,TBL,Tampa Bay Lightning
+1366,2006,TOR,Toronto Maple Leafs
+1367,2006,VAN,Vancouver Canucks
+1368,2006,WAS,Washington Capitals
+1369,2007,AND,Anaheim Ducks
+1370,2007,ATL,Atlanta Thrashers
+1371,2007,BOS,Boston Bruins
+1372,2007,BUF,Buffalo Sabres
+1373,2007,CAL,Calgary Flames
+1374,2007,CAR,Carolina Hurricanes
+1375,2007,CBS,Columbus Blue Jackets
+1376,2007,CHI,Chicago Blackhawks
+1377,2007,COL,Colorado Avalanche
+1378,2007,DAL,Dallas Stars
+1379,2007,DET,Detroit Red Wings
+1380,2007,EDM,Edmonton Oilers
+1381,2007,FLO,Florida Panthers
+1382,2007,LAK,Los Angeles Kings
+1383,2007,MIN,Minnesota Wild
+1384,2007,MTL,Montreal Canadiens
+1385,2007,NAS,Nashville Predators
+1386,2007,NJD,New Jersey Devils
+1387,2007,NYI,New York Islanders
+1388,2007,NYR,New York Rangers
+1389,2007,OTT,Ottawa Senators
+1390,2007,PHI,Philadelphia Flyers
+1391,2007,PHO,Phoenix Coyotes
+1392,2007,PIT,Pittsburgh Penguins
+1393,2007,SJS,San Jose Sharks
+1394,2007,STL,St. Louis Blues
+1395,2007,TBL,Tampa Bay Lightning
+1396,2007,TOR,Toronto Maple Leafs
+1397,2007,VAN,Vancouver Canucks
+1398,2007,WAS,Washington Capitals
+1399,2008,AND,Anaheim Ducks
+1400,2008,ATL,Atlanta Thrashers
+1401,2008,BOS,Boston Bruins
+1402,2008,BUF,Buffalo Sabres
+1403,2008,CAL,Calgary Flames
+1404,2008,CAR,Carolina Hurricanes
+1405,2008,CBS,Columbus Blue Jackets
+1406,2008,CHI,Chicago Blackhawks
+1407,2008,COL,Colorado Avalanche
+1408,2008,DAL,Dallas Stars
+1409,2008,DET,Detroit Red Wings
+1410,2008,EDM,Edmonton Oilers
+1411,2008,FLO,Florida Panthers
+1412,2008,LAK,Los Angeles Kings
+1413,2008,MIN,Minnesota Wild
+1414,2008,MTL,Montreal Canadiens
+1415,2008,NAS,Nashville Predators
+1416,2008,NJD,New Jersey Devils
+1417,2008,NYI,New York Islanders
+1418,2008,NYR,New York Rangers
+1419,2008,OTT,Ottawa Senators
+1420,2008,PHI,Philadelphia Flyers
+1421,2008,PHO,Phoenix Coyotes
+1422,2008,PIT,Pittsburgh Penguins
+1423,2008,SJS,San Jose Sharks
+1424,2008,STL,St. Louis Blues
+1425,2008,TBL,Tampa Bay Lightning
+1426,2008,TOR,Toronto Maple Leafs
+1427,2008,VAN,Vancouver Canucks
+1428,2008,WAS,Washington Capitals
+1429,2009,AND,Anaheim Ducks
+1430,2009,ATL,Atlanta Thrashers
+1431,2009,BOS,Boston Bruins
+1432,2009,BUF,Buffalo Sabres
+1433,2009,CAL,Calgary Flames
+1434,2009,CAR,Carolina Hurricanes
+1435,2009,CBS,Columbus Blue Jackets
+1436,2009,CHI,Chicago Blackhawks
+1437,2009,COL,Colorado Avalanche
+1438,2009,DAL,Dallas Stars
+1439,2009,DET,Detroit Red Wings
+1440,2009,EDM,Edmonton Oilers
+1441,2009,FLO,Florida Panthers
+1442,2009,LAK,Los Angeles Kings
+1443,2009,MIN,Minnesota Wild
+1444,2009,MTL,Montreal Canadiens
+1445,2009,NAS,Nashville Predators
+1446,2009,NJD,New Jersey Devils
+1447,2009,NYI,New York Islanders
+1448,2009,NYR,New York Rangers
+1449,2009,OTT,Ottawa Senators
+1450,2009,PHI,Philadelphia Flyers
+1451,2009,PHO,Phoenix Coyotes
+1452,2009,PIT,Pittsburgh Penguins
+1453,2009,SJS,San Jose Sharks
+1454,2009,STL,St. Louis Blues
+1455,2009,TBL,Tampa Bay Lightning
+1456,2009,TOR,Toronto Maple Leafs
+1457,2009,VAN,Vancouver Canucks
+1458,2009,WAS,Washington Capitals
+1459,2010,AND,Anaheim Ducks
+1460,2010,ATL,Atlanta Thrashers
+1461,2010,BOS,Boston Bruins
+1462,2010,BUF,Buffalo Sabres
+1463,2010,CAL,Calgary Flames
+1464,2010,CAR,Carolina Hurricanes
+1465,2010,CBS,Columbus Blue Jackets
+1466,2010,CHI,Chicago Blackhawks
+1467,2010,COL,Colorado Avalanche
+1468,2010,DAL,Dallas Stars
+1469,2010,DET,Detroit Red Wings
+1470,2010,EDM,Edmonton Oilers
+1471,2010,FLO,Florida Panthers
+1472,2010,LAK,Los Angeles Kings
+1473,2010,MIN,Minnesota Wild
+1474,2010,MTL,Montreal Canadiens
+1475,2010,NAS,Nashville Predators
+1476,2010,NJD,New Jersey Devils
+1477,2010,NYI,New York Islanders
+1478,2010,NYR,New York Rangers
+1479,2010,OTT,Ottawa Senators
+1480,2010,PHI,Philadelphia Flyers
+1481,2010,PHO,Phoenix Coyotes
+1482,2010,PIT,Pittsburgh Penguins
+1483,2010,SJS,San Jose Sharks
+1484,2010,STL,St. Louis Blues
+1485,2010,TBL,Tampa Bay Lightning
+1486,2010,TOR,Toronto Maple Leafs
+1487,2010,VAN,Vancouver Canucks
+1488,2010,WAS,Washington Capitals
+1489,2011,AND,Anaheim Ducks
+1490,2011,BOS,Boston Bruins
+1491,2011,BUF,Buffalo Sabres
+1492,2011,CAL,Calgary Flames
+1493,2011,CAR,Carolina Hurricanes
+1494,2011,CBS,Columbus Blue Jackets
+1495,2011,CHI,Chicago Blackhawks
+1496,2011,COL,Colorado Avalanche
+1497,2011,DAL,Dallas Stars
+1498,2011,DET,Detroit Red Wings
+1499,2011,EDM,Edmonton Oilers
+1500,2011,FLO,Florida Panthers
+1501,2011,LAK,Los Angeles Kings
+1502,2011,MIN,Minnesota Wild
+1503,2011,MTL,Montreal Canadiens
+1504,2011,NAS,Nashville Predators
+1505,2011,NJD,New Jersey Devils
+1506,2011,NYI,New York Islanders
+1507,2011,NYR,New York Rangers
+1508,2011,OTT,Ottawa Senators
+1509,2011,PHI,Philadelphia Flyers
+1510,2011,PHO,Phoenix Coyotes
+1511,2011,PIT,Pittsburgh Penguins
+1512,2011,SJS,San Jose Sharks
+1513,2011,STL,St. Louis Blues
+1514,2011,TBL,Tampa Bay Lightning
+1515,2011,TOR,Toronto Maple Leafs
+1516,2011,VAN,Vancouver Canucks
+1517,2011,WAS,Washington Capitals
+1518,2011,WPG,Winnipeg Jets
+1519,2012,AND,Anaheim Ducks
+1520,2012,BOS,Boston Bruins
+1521,2012,BUF,Buffalo Sabres
+1522,2012,CAL,Calgary Flames
+1523,2012,CAR,Carolina Hurricanes
+1524,2012,CBS,Columbus Blue Jackets
+1525,2012,CHI,Chicago Blackhawks
+1526,2012,COL,Colorado Avalanche
+1527,2012,DAL,Dallas Stars
+1528,2012,DET,Detroit Red Wings
+1529,2012,EDM,Edmonton Oilers
+1530,2012,FLO,Florida Panthers
+1531,2012,LAK,Los Angeles Kings
+1532,2012,MIN,Minnesota Wild
+1533,2012,MTL,Montreal Canadiens
+1534,2012,NAS,Nashville Predators
+1535,2012,NJD,New Jersey Devils
+1536,2012,NYI,New York Islanders
+1537,2012,NYR,New York Rangers
+1538,2012,OTT,Ottawa Senators
+1539,2012,PHI,Philadelphia Flyers
+1540,2012,PHO,Phoenix Coyotes
+1541,2012,PIT,Pittsburgh Penguins
+1542,2012,SJS,San Jose Sharks
+1543,2012,STL,St. Louis Blues
+1544,2012,TBL,Tampa Bay Lightning
+1545,2012,TOR,Toronto Maple Leafs
+1546,2012,VAN,Vancouver Canucks
+1547,2012,WAS,Washington Capitals
+1548,2012,WPG,Winnipeg Jets
+1549,2013,AND,Anaheim Ducks
+1550,2013,BOS,Boston Bruins
+1551,2013,BUF,Buffalo Sabres
+1552,2013,CAL,Calgary Flames
+1553,2013,CAR,Carolina Hurricanes
+1554,2013,CBS,Columbus Blue Jackets
+1555,2013,CHI,Chicago Blackhawks
+1556,2013,COL,Colorado Avalanche
+1557,2013,DAL,Dallas Stars
+1558,2013,DET,Detroit Red Wings
+1559,2013,EDM,Edmonton Oilers
+1560,2013,FLO,Florida Panthers
+1561,2013,LAK,Los Angeles Kings
+1562,2013,MIN,Minnesota Wild
+1563,2013,MTL,Montreal Canadiens
+1564,2013,NAS,Nashville Predators
+1565,2013,NJD,New Jersey Devils
+1566,2013,NYI,New York Islanders
+1567,2013,NYR,New York Rangers
+1568,2013,OTT,Ottawa Senators
+1569,2013,PHI,Philadelphia Flyers
+1570,2013,PHO,Phoenix Coyotes
+1571,2013,PIT,Pittsburgh Penguins
+1572,2013,SJS,San Jose Sharks
+1573,2013,STL,St. Louis Blues
+1574,2013,TBL,Tampa Bay Lightning
+1575,2013,TOR,Toronto Maple Leafs
+1576,2013,VAN,Vancouver Canucks
+1577,2013,WAS,Washington Capitals
+1578,2013,WPG,Winnipeg Jets
+1579,2014,AND,Anaheim Ducks
+1580,2014,ARI,Arizona Coyotes
+1581,2014,BOS,Boston Bruins
+1582,2014,BUF,Buffalo Sabres
+1583,2014,CAL,Calgary Flames
+1584,2014,CAR,Carolina Hurricanes
+1585,2014,CBS,Columbus Blue Jackets
+1586,2014,CHI,Chicago Blackhawks
+1587,2014,COL,Colorado Avalanche
+1588,2014,DAL,Dallas Stars
+1589,2014,DET,Detroit Red Wings
+1590,2014,EDM,Edmonton Oilers
+1591,2014,FLO,Florida Panthers
+1592,2014,LAK,Los Angeles Kings
+1593,2014,MIN,Minnesota Wild
+1594,2014,MTL,Montreal Canadiens
+1595,2014,NAS,Nashville Predators
+1596,2014,NJD,New Jersey Devils
+1597,2014,NYI,New York Islanders
+1598,2014,NYR,New York Rangers
+1599,2014,OTT,Ottawa Senators
+1600,2014,PHI,Philadelphia Flyers
+1601,2014,PIT,Pittsburgh Penguins
+1602,2014,SJS,San Jose Sharks
+1603,2014,STL,St. Louis Blues
+1604,2014,TBL,Tampa Bay Lightning
+1605,2014,TOR,Toronto Maple Leafs
+1606,2014,VAN,Vancouver Canucks
+1607,2014,WAS,Washington Capitals
+1608,2014,WPG,Winnipeg Jets
+1609,2015,AND,Anaheim Ducks
+1610,2015,ARI,Arizona Coyotes
+1611,2015,BOS,Boston Bruins
+1612,2015,BUF,Buffalo Sabres
+1613,2015,CAL,Calgary Flames
+1614,2015,CAR,Carolina Hurricanes
+1615,2015,CBS,Columbus Blue Jackets
+1616,2015,CHI,Chicago Blackhawks
+1617,2015,COL,Colorado Avalanche
+1618,2015,DAL,Dallas Stars
+1619,2015,DET,Detroit Red Wings
+1620,2015,EDM,Edmonton Oilers
+1621,2015,FLO,Florida Panthers
+1622,2015,LAK,Los Angeles Kings
+1623,2015,MIN,Minnesota Wild
+1624,2015,MTL,Montreal Canadiens
+1625,2015,NAS,Nashville Predators
+1626,2015,NJD,New Jersey Devils
+1627,2015,NYI,New York Islanders
+1628,2015,NYR,New York Rangers
+1629,2015,OTT,Ottawa Senators
+1630,2015,PHI,Philadelphia Flyers
+1631,2015,PIT,Pittsburgh Penguins
+1632,2015,SJS,San Jose Sharks
+1633,2015,STL,St. Louis Blues
+1634,2015,TBL,Tampa Bay Lightning
+1635,2015,TOR,Toronto Maple Leafs
+1636,2015,VAN,Vancouver Canucks
+1637,2015,WAS,Washington Capitals
+1638,2015,WPG,Winnipeg Jets
+1639,2016,AND,Anaheim Ducks
+1640,2016,ARI,Arizona Coyotes
+1641,2016,BOS,Boston Bruins
+1642,2016,BUF,Buffalo Sabres
+1643,2016,CAL,Calgary Flames
+1644,2016,CAR,Carolina Hurricanes
+1645,2016,CBS,Columbus Blue Jackets
+1646,2016,CHI,Chicago Blackhawks
+1647,2016,COL,Colorado Avalanche
+1648,2016,DAL,Dallas Stars
+1649,2016,DET,Detroit Red Wings
+1650,2016,EDM,Edmonton Oilers
+1651,2016,FLO,Florida Panthers
+1652,2016,LAK,Los Angeles Kings
+1653,2016,MIN,Minnesota Wild
+1654,2016,MTL,Montreal Canadiens
+1655,2016,NAS,Nashville Predators
+1656,2016,NJD,New Jersey Devils
+1657,2016,NYI,New York Islanders
+1658,2016,NYR,New York Rangers
+1659,2016,OTT,Ottawa Senators
+1660,2016,PHI,Philadelphia Flyers
+1661,2016,PIT,Pittsburgh Penguins
+1662,2016,SJS,San Jose Sharks
+1663,2016,STL,St. Louis Blues
+1664,2016,TBL,Tampa Bay Lightning
+1665,2016,TOR,Toronto Maple Leafs
+1666,2016,VAN,Vancouver Canucks
+1667,2016,WAS,Washington Capitals
+1668,2016,WPG,Winnipeg Jets
+1669,2017,AND,Anaheim Ducks
+1670,2017,ARI,Arizona Coyotes
+1671,2017,BOS,Boston Bruins
+1672,2017,BUF,Buffalo Sabres
+1673,2017,CAL,Calgary Flames
+1674,2017,CAR,Carolina Hurricanes
+1675,2017,CBS,Columbus Blue Jackets
+1676,2017,CHI,Chicago Blackhawks
+1677,2017,COL,Colorado Avalanche
+1678,2017,DAL,Dallas Stars
+1679,2017,DET,Detroit Red Wings
+1680,2017,EDM,Edmonton Oilers
+1681,2017,FLO,Florida Panthers
+1682,2017,LAK,Los Angeles Kings
+1683,2017,MIN,Minnesota Wild
+1684,2017,MTL,Montreal Canadiens
+1685,2017,NAS,Nashville Predators
+1686,2017,NJD,New Jersey Devils
+1687,2017,NYI,New York Islanders
+1688,2017,NYR,New York Rangers
+1689,2017,OTT,Ottawa Senators
+1690,2017,PHI,Philadelphia Flyers
+1691,2017,PIT,Pittsburgh Penguins
+1692,2017,SJS,San Jose Sharks
+1693,2017,STL,St. Louis Blues
+1694,2017,TBL,Tampa Bay Lightning
+1695,2017,TOR,Toronto Maple Leafs
+1696,2017,VAN,Vancouver Canucks
+1697,2017,VEG,Vegas Golden Knights
+1698,2017,WAS,Washington Capitals
+1699,2017,WPG,Winnipeg Jets
