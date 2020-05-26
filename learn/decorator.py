@@ -42,19 +42,53 @@ class Lew(Zwierze):
         print("A tak w ogóle to jestem lwem")
 
 
-def main():
-    Dumboo = Slon("Dumboo", 77, 6000)
-    Simba = Lew("Simba", 24, 100)
-    Jago = Papuga("Jago", 32, 3)
-    jakis_zwierz = Zwierze("cos", 31, 80)
 
-    Dumboo.przedstaw_sie()
-    Simba.przedstaw_sie()
-    jakis_zwierz.przedstaw_sie()
+Dumboo = Slon("Dumboo", 77, 6000)
+Simba = Lew("Simba", 24, 100)
+Jago = Papuga("Jago", 32, 3)
+jakis_zwierz = Zwierze("cos", 31, 80)
 
-    Jago.urodziny()
-    Jago.przedstaw_sie()
+Dumboo.przedstaw_sie()
+Simba.przedstaw_sie()
+jakis_zwierz.przedstaw_sie()
+
+Jago.urodziny()
+Jago.przedstaw_sie()
+
+print('\n\n-----')
+
+def decor_func(some_f):
+    def inside_func(*args, **kwargs):
+        print("started")
+        ret = some_f(*args, **kwargs)
+        print("Ended")
+        return ret
+
+    return inside_func
+
+def some_func():
+    print('New inside func')
+
+def new_func():
+    print('New func1')
+
+x =decor_func(some_func)
+x()
+print('\n\n-----')
 
 
-if __name__ == "__main__":
-    main()
+@decor_func
+def new_func2():
+    print('New func2')
+
+
+
+@decor_func
+def args_func(x, y):
+    print(f'it is my arg: {x}')
+    return y
+new_func2()
+
+print('\n-----')
+
+args_func(89,12)

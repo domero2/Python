@@ -46,3 +46,31 @@ class NewC(metaclass=Meta):
 inst = NewC()
 print(inst.X)
 
+
+from collections import Counter
+def predominant_sign(data):
+    signs = Counter(k['sign'] for k in data if k.get('sign'))
+    for sign, count in signs.most_common():
+        print(sign, count)
+
+dataa = [{"house": 4,  "sign": "Aquarius"},
+ {"house": 2,  "sign": "Sagittarius"},
+ {"house": 8,  "sign": "Gemini"},
+ {"house": 3,  "sign": "Capricorn"},
+ {"house": 2,  "sign": "Sagittarius"},
+ {"house": 3,  "sign": "Capricorn"},
+ {"house": 10, "sign": "Leo"},
+ {"house": 4,  "sign": "Aquarius"},
+ {"house": 10, "sign": "Leo"},
+ {"house": 1,  "sign": "Scorpio"}]
+predominant_sign(dataa)
+
+print('\n\n -----')
+def somefunc(data,number):
+    count = 0
+    for i in data:
+        if i == number:
+            count +=1
+    print(count)
+
+somefunc([1,2,3,3,3,4,5],3)
