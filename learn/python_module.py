@@ -1,5 +1,5 @@
 from collections import Counter, defaultdict, OrderedDict, namedtuple
-
+import timeit
 
 
 #Counter in list
@@ -33,8 +33,6 @@ default_dict['two'] = 2
 default_dict['one']
 default_dict['three']
 
-print(default_dict.items())
-
 #ORDER DICTIONARY
 
 order_dict = OrderedDict()
@@ -51,8 +49,9 @@ normal_dict2['c'] = 2
 
 #def sorterdValues():
 for m in sorted(normal_dict2.items(), reverse=False):
-    print(m)
-print(normal_dict2.items())
+    pass
+
+
 print('\n-----')
 
 
@@ -80,4 +79,17 @@ FirstClass = namedtuple('FirstClass','order firstName')
 #object
 
 joe = FirstClass(order=2, firstName='Doe')
-print(joe.order, joe[1])
+#print(joe.order, joe[1])
+
+
+############################ TimeIt
+
+first_string = '0-1-2-3-...-99'
+"-".join(str(n) for n in range(100))
+
+print(timeit.timeit('"-".join([str(n) for n in range(100)])', number=10000))
+#run as list comprehension
+print(timeit.timeit('"-".join([str(n) for n in range(100)])', number=10000))
+
+#using map much faster
+print(timeit.timeit('"-".join(map(str, range(100)))', number=10000))
