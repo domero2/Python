@@ -6,6 +6,9 @@ from sqlite3 import Error
 
 BASE_PATH = path.dirname(path.abspath(__file__))
 RELATIVE_PATH = BASE_PATH + '/Scripts/Select_query.sql'
+DATABASE = r"/Users/albi/Library/DBeaverData/workspace6/.metadata/sample-database-sqlite-1/Chinook.db"
+
+
 def create_connection(db_file):
     conn = None
     try:
@@ -30,23 +33,20 @@ def select_all_tasks(conn, query):
     for row in rows: print(row)
 
 
-def main():
-    database = r"/Users/albi/Library/DBeaverData/workspace6/.metadata/sample-database-sqlite-1/Chinook.db"
+database = r"/Users/albi/Library/DBeaverData/workspace6/.metadata/sample-database-sqlite-1/Chinook.db"
 
-    conn = create_connection(database)
-    cur = conn.cursor()
-    result = cur.execute('select FirstName from Customer')
+    # conn = create_connection(database)
+    #     cur = conn.cursor()
+    #     result = cur.execute('select FirstName from Customer')
 
-    with create_connection(database) as ConnectionSL:
-        con2 = ConnectionSL.cursor()
-        res = con2.execute('select FirstName from Customer')
+with create_connection(database) as ConnectionSL:
+    con2 = ConnectionSL.cursor()
+    res = con2.execute("select FirstName from Customer where FirstName like 'L%' ")
 
-        for i in res:
-            print(i)
-        #query = SqlLiteQuery().from_file(RELATIVE_PATH)
-        #ress = con2.execute(query)
-        #for res in ress: print(res)
-    ConnectionSL.commit()
-    ConnectionSL.close()
-if __name__ == '__main__':
-    main()
+    for i in res:
+        print(i)
+            #query = SqlLiteQuery().from_file(RELATIVE_PATH)
+            #ress = con2.execute(query)
+            #for res in ress: print(res)
+ConnectionSL.commit()
+ConnectionSL.close()
